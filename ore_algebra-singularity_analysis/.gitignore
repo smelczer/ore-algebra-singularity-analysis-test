@@ -1,0 +1,16 @@
+MANIFEST
+build
+dist/
+doc/_build
+doc/generated
+src/.tags
+src/ore_algebra.egg-info
+papers/*/*.bbl
+papers/*/*.blg
+papers/*/*.out
+papers/*/*.pdf
+papers/*/*.sagetex.*
+papers/*/*_doctest.sage
+*.c
+*.cpp
+*.so
